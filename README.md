@@ -6,8 +6,7 @@ This project aims to predict whether an employee will be promoted or not using m
 # Approach
 
 - Preprocessed missing values and encoded categorical features
-- Tried multiple models (Random Forest, XGBoost, etc.)
-- Final model used: Random Forest Classifier
+- model used: Random Forest Classifier
 - Evaluated using F1 Score due to class imbalance
 
 
@@ -21,5 +20,5 @@ This project aims to predict whether an employee will be promoted or not using m
 # Tools Used
 
 - Python (Google Colab)
-- pandas, scikit-learn, xgboost
+- pandas, scikit-learn, Random forest
 
